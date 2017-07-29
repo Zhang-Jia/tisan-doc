@@ -1,6 +1,6 @@
-# Summary  
+# Summary
 
-* [前言](README.md) 
+* [前言](README.md)
 * [概述](intro/README.md)
 * [快速体验](cn/quick-start.md)
 * [硬件介绍](cn/hardware.md)
@@ -10,4 +10,5 @@
 * [微信支持](cn/wechat-support.md)
 * [FAQs](cn/faq.md)
 * [下载中心](http://pan.baidu.com/s/1c0r0ba4)
+* [公司介绍](gong-si-jie-shao.md)
 
