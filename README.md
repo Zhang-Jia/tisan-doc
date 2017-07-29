@@ -1,7 +1,7 @@
 # acib-doc  
 *** 
   
-[acib](http://ide.acloudiot.com/) 是的可产品化的物联网开发板，有硬件（acib开发板，当前核心模块基于ESP8266，一款SOC的WIFI芯片）以及软件（固件、云端编辑WebIDE、手机应用程序ACloudIot、微信应用、平台服务等）。  
+[acib](http://ide.acloudiot.com/) (acloudiot board)是的可产品化的物联网开发板，有硬件（acib开发板，当前核心模块基于ESP8266，一款SOC的WIFI芯片）以及软件（固件、云端编辑WebIDE、手机应用程序ACloudIot、微信应用、平台服务等）。  
 
 最新版本在线阅读：[GitBook](https://www.gitbook.com/book/zhang-jia/acloudiotboard/details)。  
 本文档在github上维护：
